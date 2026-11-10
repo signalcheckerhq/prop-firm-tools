@@ -7,6 +7,8 @@ Two free, open-source indicators for prop-firm accounts. Both put the rule math 
 | **Prop Rule Guard** | Room left before the daily loss limit and the max drawdown, open risk if every stop is hit, profit target left | `ninjatrader8/SCHQPropRuleGuard.cs` | `mt5/SCHQ_PropRuleGuard.mq5` |
 | **Consistency Rule Tracker** | Best day as % of total profit (or of the target), how much more today can make within the rule, profit still needed if it is broken | `ninjatrader8/SCHQConsistencyTracker.cs` | `mt5/SCHQ_ConsistencyTracker.mq5` |
 
+**New here? Read [How to use](HOW_TO_USE.md)** (5-minute setup and how to read the panel).
+
 ## Install
 
 **NinjaTrader 8:** download [`ninjatrader8/SCHQ_PropTools_NT8.zip`](ninjatrader8/SCHQ_PropTools_NT8.zip), then in NinjaTrader: Tools > Import > NinjaScript Add-On, pick the zip. Both indicators appear under Indicators. The zip holds the source code (no compiled DLL).
