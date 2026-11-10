@@ -42,6 +42,8 @@ Firms word these rules differently (which balance the day starts from, when the 
 
 Bug reports and questions: open an issue.
 
+Need a different rule, another platform or a custom MT5 / NinjaTrader 8 indicator? I take custom work: [signalcheckerhq.org/custom](https://signalcheckerhq.org/custom/).
+
 ## License
 
 [Mozilla Public License 2.0](LICENSE). By SignalCheckerHQ.
