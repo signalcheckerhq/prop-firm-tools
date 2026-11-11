@@ -42,6 +42,8 @@ Firms word these rules differently (which balance the day starts from, when the 
 
 Bug reports and questions: open an issue.
 
+Before you size a trade under prop rules, the free [position size](https://signalcheckerhq.org/position-size-calculator/) and [risk of ruin](https://signalcheckerhq.org/risk-of-ruin-calculator/) calculators help; each has a short video walkthrough at [signalcheckerhq.org/tutorials](https://signalcheckerhq.org/tutorials/).
+
 Need a different rule, another platform or a custom MT5 / NinjaTrader 8 indicator? I take custom work: [signalcheckerhq.org/custom](https://signalcheckerhq.org/custom/).
 
 ## License
