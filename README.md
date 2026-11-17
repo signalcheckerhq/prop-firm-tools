@@ -40,7 +40,7 @@ Two free, open-source indicators for prop-firm accounts. Both put the rule math 
 
 Firms word these rules differently (which balance the day starts from, when the day resets, whether open profit counts, whether the consistency rule applies to the challenge or only to payouts). Set the inputs to your firm's current terms. Tested on a NinjaTrader demo account (MES) and a MetaQuotes demo account (MT5 build 6314). Not financial advice.
 
-Bug reports and questions: open an issue.
+Bug reports and questions: open an issue, or reply in the [NinjaTrader forum topic](https://discourse.ninjatrader.com/t/free-prop-rule-guard-consistency-rule-tracker-for-nt8-prop-account-limits-on-the-chart/8038).
 
 Before you size a trade under prop rules, the free [position size](https://signalcheckerhq.org/position-size-calculator/) and [risk of ruin](https://signalcheckerhq.org/risk-of-ruin-calculator/) calculators help; each has a short video walkthrough at [signalcheckerhq.org/tutorials](https://signalcheckerhq.org/tutorials/).
 
